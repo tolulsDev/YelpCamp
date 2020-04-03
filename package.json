@@ -1,0 +1,26 @@
+{
+  "name": "yelpcamp",
+  "version": "1.0.0",
+  "description": "YelpCamp app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tolulsDev/YelpCamp.git"
+  },
+  "keywords": [
+    "YelpCamp"
+  ],
+  "author": "Tls",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tolulsDev/YelpCamp/issues"
+  },
+  "homepage": "https://github.com/tolulsDev/YelpCamp#readme",
+  "dependencies": {
+    "ejs": "^3.0.2",
+    "express": "^4.17.1"
+  }
+}
