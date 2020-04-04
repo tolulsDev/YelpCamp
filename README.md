@@ -15,3 +15,7 @@ version Three
 *emphasized text*
 
 *strong text*
+
+`my text`
+
+Visit my website [Squared Ace Solutions](http://squaredace.com)
