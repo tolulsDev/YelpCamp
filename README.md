@@ -6,15 +6,15 @@ version Three
 
 > Tolu is good
 
-* one
-* two
+- one
+- two
 
 1. one
 2. two
 
 *emphasized text*
 
-*strong text*
+**strong text**
 
 `my text`
 
