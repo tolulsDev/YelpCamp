@@ -3,3 +3,15 @@
 This app will help us add new camps and more.
 
 version Three
+
+> Tolu is good
+
+*one
+*two
+
+1. one
+2. two
+
+*emphasized text*
+
+*strong text*
