@@ -1,5 +1,7 @@
 # This is YelpCamp! I'll be updating soon
 
+![my guy](https://raw.githubusercontent.com/planetoftheweb/angulardata/01_02b/hero.png)
+
 This app will help us add new camps and more.
 
 version Three
